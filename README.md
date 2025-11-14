@@ -2,6 +2,10 @@
 
 AI-powered quiz microservice with mock JWT auth, AI-assisted quiz generation/evaluation, hints, adaptive difficulty, history filters, retry attempts, and leaderboard.
 
+# DEMO VIDEO - LINK
+
+https://drive.google.com/file/d/1M7nVLM_DRM0V9a6G5PM32RMwejIfhtL_/view?usp=sharing
+
 ## Features
 - Authentication: mock login accepts any username/password and returns JWT.
 - Quiz generation: AI-assisted (Groq if configured, otherwise mock) with adaptive difficulty.
